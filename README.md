@@ -76,8 +76,6 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 - **[Path Traversal via JSON Body Parameter to Access Internal Actuator Endpoints](https://0xcucumbersalad.dev/post/path-traversal-internal-endpoints/)** · Apr 2026
 - **[Unauthenticated Access to DataHub with Full CRUD Permissions](https://0xcucumbersalad.dev/post/unauthenticated-datahub-access/)** · Apr 2026
 
-> 📖 More at [**0xcucumbersalad.dev**](https://0xcucumbersalad.dev)
-
 ---
 
 <p align="center">
