@@ -33,7 +33,7 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 | CVE | Target | Class | PoC / Ref |
 |-----|--------|-------|-----|
 | **CVE-2025-13796** | deco-cx `apps` — `analyticsScript.ts` | Server-Side Request Forgery (SSRF) | [PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC) |
-| **CVE-2025-12917** | TOZED ZLT T10 / T10PLUS router — Reboot Handler | IoT / firmware | [PoC](https://github.com/0xcucumbersalad/CVE-2025-12917-PoC) |
+| **CVE-2025-12917** | TOZED ZLT T10 / T10PLUS router — Reboot Handler | IoT / firmware | [Advisory](https://www.cve.org/CVERecord?id=CVE-2025-12917) |
 | **CVE-2025-69284** | Plane (plane.io) — Workspace Members API | Improper Access Control (CWE-284) · member enumeration | [Advisory](https://www.cve.org/CVERecord?id=CVE-2025-69284) |
 | **CVE-2025-14660** | DecoCMS Mesh — `createTool` Workspace Domain Handler | Improper Access Control | [Advisory](https://www.cve.org/CVERecord?id=CVE-2025-14660) |
 
