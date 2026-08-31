@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://0xcucumbersalad.dev"><img src="https://img.shields.io/badge/blog-0xcucumbersalad.dev-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
-  <a href="https://github.com/0xcucumbersalad"><img src="https://img.shields.io/github/followers/0xcucumbersalad?style=for-the-badge&logo=github&label=follow&color=1f6feb"></a>
-  <img src="https://komarev.com/ghpvc/?username=0xcucumbersalad&style=for-the-badge&color=1f6feb&label=profile+views">
 </p>
 
 ---
