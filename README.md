@@ -56,16 +56,27 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 
 ---
 
-### 📊 Stats
+### 🎓 Certifications
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xcucumbersalad&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=1f6feb&icon_color=1f6feb">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcucumbersalad&layout=compact&theme=dark&hide_border=true&title_color=1f6feb">
-</p>
+![WAPTX](https://img.shields.io/badge/WAPTX-Web%20App%20Pentester%20eXtreme-1f6feb?style=flat-square)
+![HTB CBBH](https://img.shields.io/badge/HTB-CBBH-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![PWPP](https://img.shields.io/badge/PWPP-Practical%20Web%20Pentest%20Pro-1f6feb?style=flat-square)
+![CAPenX](https://img.shields.io/badge/CAPenX-Certified%20AppSec%20Pentesting%20eXpert-1f6feb?style=flat-square)
+![ACP](https://img.shields.io/badge/ACP-APIsec%20Certified%20Practitioner-1f6feb?style=flat-square)
+![CNSP](https://img.shields.io/badge/CNSP-Certified%20Network%20Security%20Practitioner-1f6feb?style=flat-square)
+![CAP](https://img.shields.io/badge/CAP-Certified%20AppSec%20Practitioner-1f6feb?style=flat-square)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xcucumbersalad&theme=dark&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb">
-</p>
+---
+
+### ✍️ Latest Writeups
+
+- **[Riding Coda's Invite Emails Through a Company's Own Support Inbox](https://0xcucumbersalad.dev/post/coda-support-email-workspace-join/)** · Jul 2026
+- **[Account Takeover via a Password Reset That Trusts an Onboarding ID](https://0xcucumbersalad.dev/post/account-takeover-osappid-reset/)** · Jul 2026
+- **[Unauthenticated WebSocket Broadcasting Live Customer Chats](https://0xcucumbersalad.dev/post/unauthenticated-websocket-pii-broadcast/)** · Jul 2026
+- **[Path Traversal via JSON Body Parameter to Access Internal Actuator Endpoints](https://0xcucumbersalad.dev/post/path-traversal-internal-endpoints/)** · Apr 2026
+- **[Unauthenticated Access to DataHub with Full CRUD Permissions](https://0xcucumbersalad.dev/post/unauthenticated-datahub-access/)** · Apr 2026
+
+> 📖 More at [**0xcucumbersalad.dev**](https://0xcucumbersalad.dev)
 
 ---
 
