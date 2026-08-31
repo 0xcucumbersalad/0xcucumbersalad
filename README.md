@@ -16,10 +16,9 @@
 ### `whoami`
 
 ```bash
-$ 0xcucumbersalad --whoami
-handle   : 0xcucumbersalad
+$ whoami
+handle   : cucumbersalad
 role     : security researcher
-langs    : Python, TypeScript, Shell
 motto    : "if it parses input, it has a bug"
 ```
 
@@ -79,5 +78,5 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 ---
 
 <p align="center">
-  <a href="https://0xcucumbersalad.dev">🌐 0xcucumbersalad.dev</a>
+  <a href="https://0xcucumbersalad.dev">0xcucumbersalad.dev</a>
 </p>
