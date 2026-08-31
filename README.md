@@ -19,7 +19,6 @@
 $ 0xcucumbersalad --whoami
 handle   : 0xcucumbersalad
 role     : security researcher
-focus    : CVE research · SSRF · auth bypass · IoT/router bugs · recon tooling
 langs    : Python, TypeScript, Shell
 motto    : "if it parses input, it has a bug"
 ```
@@ -65,7 +64,7 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcucumbersalad&theme=dark&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb">
+  <img src="https://streak-stats.demolab.com/?user=0xcucumbersalad&theme=dark&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb">
 </p>
 
 ---
