@@ -1,7 +1,7 @@
 <h1 align="center">Jaynel Patiarba</h1>
 
 <p align="center">
-  <b>Security Researcher · CVE Hunter · Web/AppSec</b><br>
+  <b>Security Researcher · Web/AppSec</b><br>
   Breaking things in the Philippines 🇵🇭 · @ <a href="https://deco.cx">deco</a>
 </p>
 
