@@ -27,7 +27,7 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 
 ---
 
-### 🔓 Published CVE Research
+###  Published CVE Research
 
 | CVE | Target | Class | PoC / Ref |
 |-----|--------|-------|-----|
@@ -38,14 +38,14 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 
 ---
 
-### 🧰 Featured Projects
+###  Featured Projects
 
 - **[recon-toolkit](https://github.com/0xcucumbersalad/recon-toolkit)** — Shell-based reconnaissance tooling for asset discovery & enumeration.
 - **[SnaKédex](https://github.com/0xcucumbersalad/ph-snake-open)** — Open-data API for expert-verified Philippine snake sightings.
 
 ---
 
-### 🛠️ Arsenal
+###  Arsenal
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -56,7 +56,7 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 
 ![WAPTX](https://img.shields.io/badge/WAPTX-Web%20App%20Pentester%20eXtreme-1f6feb?style=flat-square)
 ![HTB CBBH](https://img.shields.io/badge/HTB-CBBH-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
@@ -68,7 +68,7 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 
 ---
 
-### ✍️ Latest Writeups
+###  Latest Writeups
 
 - **[Riding Coda's Invite Emails Through a Company's Own Support Inbox](https://0xcucumbersalad.dev/post/coda-support-email-workspace-join/)** · Jul 2026
 - **[Account Takeover via a Password Reset That Trusts an Onboarding ID](https://0xcucumbersalad.dev/post/account-takeover-osappid-reset/)** · Jul 2026
@@ -79,6 +79,5 @@ Security researcher focused on **vulnerability discovery** and **proof-of-concep
 ---
 
 <p align="center">
-  <a href="https://0xcucumbersalad.dev">🌐 0xcucumbersalad.dev</a> ·
-  <a href="mailto:jaynel@deco.cx">✉️ jaynel@deco.cx</a>
+  <a href="https://0xcucumbersalad.dev">🌐 0xcucumbersalad.dev</a>
 </p>
